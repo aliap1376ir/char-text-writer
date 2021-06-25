@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TextWriter.iml" filepath="$PROJECT_DIR$/TextWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharTextWriter.iml" filepath="$PROJECT_DIR$/CharTextWriter.iml" />
     </modules>
   </component>
 </project>
